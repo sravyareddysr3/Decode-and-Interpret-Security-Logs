@@ -1,0 +1,12 @@
+Log period        : 2026-10-19 01:03:58  ->  2026-10-25 10:34:00
+Total events      : 741
+Event types       : LOGIN_SUCCESS=528, LOGIN_FAILURE=198, MFA_DENIED=12, PRIV_GRANT=1, ACCOUNT_LOCKED=1, PASSWORD_CHANGE=1
+Distinct users    : 25   Distinct source IPs: 56
+Home country      : IN (74.0% of events)
+Overall failure rate (failures / success+failure): 27.3%
+In-country failure rate (typical user typo rate): 4.2%
+Weekday human logins: 09:00-18:59 share = 99.8%
+Weekend logins    : 7 total
+Common user agents: Chrome/118 Win10 (248), Chrome/118 macOS (190), python-requests/2.31 (143), Edge/118 Win10 (78), Firefox/119 Win10 (75), backup-agent/2.1 (7)
+Failures per IP (top 5): 198.51.100.23=140, 192.0.2.77=35, 203.0.113.15=7, 203.0.113.20=2, 203.0.113.27=2
+In-country failures: 23 across 14 users (max per user per day = 6)
