@@ -1,4 +1,4 @@
-# Task 6: Decode and Interpret Security Logs
+# Decode and Interpret Security Logs
 
 ## Objective
 
