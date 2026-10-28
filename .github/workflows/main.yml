@@ -20,5 +20,8 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install dependencies
+        run: python -m pip install pandas matplotlib
+
       - name: Run tests
         run: python -m unittest test_analysis -v
